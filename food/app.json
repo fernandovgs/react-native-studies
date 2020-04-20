@@ -1,9 +1,7 @@
 {
   "expo": {
-    "name": "rn-starter",
-    "slug": "rn-starter",
-    "privacy": "public",
-    "sdkVersion": "36.0.0",
+    "name": "HelloWorld",
+    "slug": "food",
     "platforms": [
       "ios",
       "android",
@@ -25,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "sdkVersion": "37.0.0"
   }
 }
